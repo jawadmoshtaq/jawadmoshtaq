@@ -4,7 +4,7 @@
 - 🌱 I'm currently living in Italy and learning Italian and English languages.
 - 🥅 2023 Goals: Contribute more to Open Source projects and become a professional in ServiceNow development.
 - 📚 I completed my bachelor’s degree in computer science in Afghanistan in 2016.
-- 📫 How to reach me: [Email]jawadmoshtaq@gmail.com, [LinkedIn] https://www.linkedin.com/in/jawadmoshtaq/
+- 📫 How to reach me: [Email](jawadmoshtaq@gmail.com), [LinkedIn](https://www.linkedin.com/in/jawadmoshtaq/)
 
 ## 🛠 Skills
 - 📱 Kotlin and Android Development with Kotlin: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 
