@@ -1,35 +1,21 @@
-# Hi, I'm Mohammad Jawad Moshtaq 👋
+### Hi there, I'm Mohammad Jawad Moshtaq 👋
 
-## 👨🏻‍💻 About Me
-- 🌱 I'm currently living in Italy and learning Italian and English languages.
-- 🥅 2024 Goals: Contribute more to Open Source projects and become a professional in ServiceNow development.
-- 📚 I completed my bachelor’s degree in computer science in Afghanistan in 2016.
-- 📫 How to reach me: [Email](jawadmoshtaq@gmail.com), [LinkedIn](https://www.linkedin.com/in/jawadmoshtaq/)
+**IT Support Specialist | Junior Data Analyst** based in Italy 🇮🇹
 
-## 🛠 Skills
-- 📱 Kotlin and Android Development with Kotlin: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 
-- 🌐 HTML: ⭐⭐⭐⭐⭐⭐⭐ 
-- 🎨 CSS: ⭐⭐⭐⭐⭐ 
-- 🟨 JavaScript: ⭐⭐⭐⭐⭐ 
-- 🖌️ Photoshop: ⭐⭐⭐⭐⭐⭐⭐⭐
-- 📊 Microsoft Office: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 
-- 💻 Windows Troubleshooting: ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 
-- 🌐 Network: ⭐⭐⭐⭐⭐⭐⭐⭐
+I am an IT professional passionate about **Data Analytics**, **Web Development**, and **IT Operations**. Currently working at **Visionarea** focusing on Retail Analytics and Data Monitoring.
 
-## 🎉 Achievements
-- Completed a six-month Android development course with Kotlin and received certification.
-- Bachelor’s degree in computer science in Afghanistan, 2016.
+- 🔭 I’m currently working on: **Google Data Analytics Professional Certificate**
+- 🌱 I’m currently learning: **Advanced SQL, Python for Data Science**
+- 💼 Experience:
+  - **Visionarea:** Data Entry & IT Support
+  - **Simplogic:** Web Development Intern
+  - **Accenture:** ServiceNow Intern
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jawadmoshtaq/)
 
-## 📚 Experience
-- **ServiceNow Developer** - *Accenture* 2023
-  - Job description and responsibilities
-- **Data Entry, Document Conversion, Photo Editing, Making PowerPoint Presentation Slideshow**
-- **Windows Troubleshooting**
+---
 
-## 📦 Projects
-- [Android Development Project](project-link) - Completed a six-month Android development course with Kotlin.
-- [ServiceNow Development](project-link) - Working towards becoming a professional ServiceNow Developer.
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)
+### 🛠️ Languages and Tools
+- **Data:** SQL, Excel (Pivot/VLOOKUP), Google Sheets
+- **Web:** HTML5, CSS3, JavaScript
+- **IT:** ServiceNow, Hardware Troubleshooting, Windows/Linux
+- **Design:** Adobe Photoshop, InDesign
