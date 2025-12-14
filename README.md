@@ -16,6 +16,6 @@ I am an IT professional passionate about **Data Analytics**, **Web Development**
 
 ### 🛠️ Languages and Tools
 
-- **Data: SQL, Excel (Pivot/VLOOKUP), Tableau, Google Sheets
-- **Web: HTML5, CSS3, JavaScript
-- **IT: ServiceNow, Troubleshooting, Windows
+- **Data:** SQL, Excel (Pivot/VLOOKUP), Tableau, Google Sheets
+- **Web:** HTML5, CSS3, JavaScript
+- **IT:** ServiceNow, Troubleshooting, Windows
