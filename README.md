@@ -5,7 +5,7 @@
 I am an IT professional passionate about **Data Analytics**, **Web Development**, and **IT Operations**. Currently working at **Visionarea** focusing on Retail Analytics and Data Monitoring.
 
 - 🔭 I’m currently working on: **Google Data Analytics Professional Certificate**
-- 🌱 I’m currently learning: **Advanced SQL, Python for Data Science**
+- 🌱 I’m currently learning: ** Python for Data Science, SQL (in progress)**
 - 💼 Experience:
   - **Visionarea:** Data Entry & IT Support
   - **Simplogic:** Web Development Intern
