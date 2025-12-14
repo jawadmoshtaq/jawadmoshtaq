@@ -15,7 +15,7 @@ I am an IT professional passionate about **Data Analytics**, **Web Development**
 ---
 
 ### 🛠️ Languages and Tools
-- **Data:** SQL, Excel (Pivot/VLOOKUP), Google Sheets
-- **Web:** HTML5, CSS3, JavaScript
-- **IT:** ServiceNow, Hardware Troubleshooting, Windows/Linux
-- **Design:** Adobe Photoshop, InDesign
+
+Data: SQL, Excel (Pivot/VLOOKUP), Tableau, Google Sheets
+Web: HTML5, CSS3, JavaScript
+IT: ServiceNow, Troubleshooting, Windows
