@@ -6,7 +6,7 @@ I work on retail analytics operations and data quality using Visionarea’s prop
 Currently learning SQL and Python for reporting and analytics projects.
 
 - 🔭 I’m currently working on: **Google Data Analytics Professional Certificate**
-- 🌱 I’m currently learning: ** Python for Data Science, SQL (in progress)**
+- 🌱 I’m currently learning: Python for Data Science, SQL (in progress)**
 - 💼 Experience:
   - **Visionarea:** Data Entry & IT Support (Retail Analytics)
   - **Simplogic:** Web Development Intern
