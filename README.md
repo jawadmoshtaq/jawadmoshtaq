@@ -17,6 +17,6 @@ Currently learning SQL and Python for reporting and analytics projects.
 
 ### 🛠️ Languages and Tools
 
-- **Data & Reporting:** Excel (Pivot/VLOOKUP), SQL (in progress)
+- **Data & Reporting:** Excel (Pivot/VLOOKUP), SQL
 - **Support/Operations:** Freshdesk (email ticketing), Troubleshooting, Data validation/reconciliation
-- **Programming:** Python (in progress), HTML/CSS/JS (basic)s
+- **Programming:** Python, HTML/CSS/JS (basic)s
